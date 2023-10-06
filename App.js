@@ -5,7 +5,7 @@ import Screen1 from './Screen1';
 import Screen2 from './Screen2';
 
 const Stack = createStackNavigator();
-
+//solo es un comentario 
 export default function App() {
   return (
     <NavigationContainer>
